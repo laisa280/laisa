@@ -11,7 +11,24 @@ body{
     font-family: "roboto mono", monospace;
     }
     
-    
+header{
+border-bottom: solid 2px rgb(218, 111, 218);
+margin: 20px;
+font-size: 32px;
+color: black;
+}
+
+
+section{
+padding-bottom: 80px;
+padding-top: 80px;
+background: #3d3b3b;
+display: flex;
+justify-content: center;
+}
+
+
+
     h1{
      color:#7B68EE;
      font-size: 40px;
